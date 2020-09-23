@@ -1,3 +1,3 @@
 # my_website
 *italics*
-/ **bold**
+/**bold**
